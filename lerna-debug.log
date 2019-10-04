@@ -1,0 +1,18 @@
+0 silly argv { _: [ 'import' ],
+0 silly argv   lernaVersion: '3.16.4',
+0 silly argv   '$0':
+0 silly argv    'C:\\Users\\shiv.kumar\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
+0 silly argv   dir: '../lernapoc-sub1-v2/' }
+1 notice cli v3.16.4
+2 verbose rootPath D:\lerna\lernapoc-main-v2
+3 info versioning independent
+4 error Error: Command failed: git log --format=%h
+4 error fatal: your current branch 'master' does not have any commits yet
+4 error
+4 error
+4 error     at makeError (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
+4 error     at Function.module.exports.sync (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:338:15)
+4 error     at Object.execSync (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\@lerna\child-process\index.js:26:16)
+4 error     at ImportCommand.externalExecSync (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\@lerna\import\index.js:147:34)
+4 error     at ImportCommand.initialize (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\@lerna\import\index.js:82:25)
+4 error     at Promise.resolve.then (C:\Users\shiv.kumar\AppData\Roaming\npm\node_modules\lerna\node_modules\@lerna\command\index.js:271:24)

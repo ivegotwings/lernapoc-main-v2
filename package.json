@@ -1,0 +1,25 @@
+{
+  "name": "lernapoc-main-v2",
+  "version": "1.0.0",
+  "description": "lerna poc root repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivegotwings/lernapoc-main-v2.git"
+  },
+  "keywords": [
+    "lerna"
+  ],
+  "author": "Shiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivegotwings/lernapoc-main-v2/issues"
+  },
+  "homepage": "https://github.com/ivegotwings/lernapoc-main-v2#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
