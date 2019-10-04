@@ -1,6 +1,6 @@
 {
   "name": "lernapoc-sub1-v2",
-  "version": "2.0.0",
+  "version": "2.0.1-alpha.0",
   "description": "lerna sub package",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
     "url": "https://github.com/ivegotwings/lernapoc-sub1-v2/issues"
   },
   "homepage": "https://github.com/ivegotwings/lernapoc-sub1-v2#readme",
-  "gitHead": "9ad9b165752ac402afe9b74884107d7023afd3f7"
+  "gitHead": "85a142b8df89b38351885ce78648b814ea5b00d0"
 }
